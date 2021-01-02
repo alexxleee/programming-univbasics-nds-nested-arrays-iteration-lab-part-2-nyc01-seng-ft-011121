@@ -5,4 +5,5 @@ def find_min_in_nested_arrays(src)
   for i in 0...src.length
     smallest = src[i][0]
     for j in 0...src[i].length
+      if 
 end
